@@ -1,16 +1,34 @@
 {
   "name": "class_management",
   "version": "1.0.0",
-  "description": "",
+  "description": "A React Native application for managing class attendance.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "React Native",
+    "Expo",
+    "TypeScript"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "files": [
+    "node_modules/",
+    ".expo/",
+    "dist/",
+    "npm-debug.*",
+    "*.jks",
+    "*.p8",
+    "*.p12",
+    "*.key",
+    "*.mobileprovision",
+    "*.orig.*",
+    "web-build/",
+    ".DS_Store"
+  ]
 }
