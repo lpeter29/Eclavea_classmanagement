@@ -1,0 +1,15 @@
+npm -v
+
+npx create-expo-app@latest
+
+npx expo start
+
+Ctrl + c (termination)
+
+cd
+
+npm install -g eas-cli
+
+eas login
+
+eas build -p android --profile preview
